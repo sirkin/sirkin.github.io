@@ -9,9 +9,9 @@ body {
   
   background-image: url('/assets/img/In_the_Simulator.png');
   background-size: contain;
-  background-position: center;
+  background-position: cover;
   background-repeat: no-repeat;
-  opacity: 0.5;
+  opacity: 0.35;
   
   h1,
   h2,
@@ -21,6 +21,11 @@ body {
   h6 {
     scroll-margin-top: 66px;
   }
+}
+
+.content {
+    position: relative;
+    z-index: 1;
 }
 
 body.fixed-top-nav {
