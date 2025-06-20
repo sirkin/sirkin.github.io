@@ -8,8 +8,8 @@ body {
   background-color: var(--global-bg-color);
   
   background-image: url('/assets/img/In_the_Simulator.png');
-  background-size: contain;
-  background-position: cover;
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   opacity: 0.35;
   
@@ -21,11 +21,6 @@ body {
   h6 {
     scroll-margin-top: 66px;
   }
-}
-
-.content {
-    position: relative;
-    z-index: 1;
 }
 
 body.fixed-top-nav {
