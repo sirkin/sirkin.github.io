@@ -6,11 +6,12 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-
+  
   background-image: url('/assets/img/In_the_Simulator.png');
-  background-size: cover; /* This makes the image cover the entire background */
-  background-position: center; /* This centers the image */
-  background-repeat: no-repeat; /* This prevents the image from repeating */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.5;
   
   h1,
   h2,
