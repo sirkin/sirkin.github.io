@@ -264,7 +264,6 @@ exclude:
   - _pages/repositories.md
   - _posts/
   - _projects/
-  - _readme_preview
   # end exclude sections/pages
 keep_files:
   - CNAME
