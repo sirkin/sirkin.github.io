@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a design engineer, researcher in human-robot interaction, and educator in interaction design. My research focuses on the design of physical and social interactions between humans and automated technologies, such as robots and self-driving cars. I frequently collaborate with local Silicon Valley and global technology companies.
+I’m a design engineer, researcher, and educator studying the physical and social interactions between people and emerging technologies, such as robots, AI, and self-driving cars. I use prototypes and enactment to explore how these systems might behave and how people respond to them. I frequently collaborate with Silicon Valley and global technology companies.
 
-Recently, I was Executive Director for Interaction Design Research at Stanford’s Center for Design Research. I have published over 50 peer-reviewed journal and conference papers, including patents, and developed and taught courses in Interactive Device Design, Design Research Methodology, and Making & Breaking Things.
+I was recently Executive Director for Interaction Design Research at Stanford’s Center for Design Research. I have published over 50 peer-reviewed journal and conference papers, including patents, and developed and taught courses in Interactive Device Design, Design Research Theory & Methodology, and Making & Breaking Things.
 
 I grew up in Florida, near the Everglades, and in Maine, near the lobsters.
